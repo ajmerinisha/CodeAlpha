@@ -1,1 +1,10 @@
-# CodeAlpha
+COMPANY: CODE ALPHA
+
+NAME: Ajmeri Nisha
+
+STUDENT ID: CA/JU1/30230
+
+DOMAIN: Python Programming
+
+DURATION: 4 WEEKS
+
